@@ -96,5 +96,6 @@ movies = [
     the_age_of_adaline
     ]
 
-# Open the HTML file via the fresh_tomatoes.py
+# This call opens the page of movies
+# from its input, a list of movie instances.
 fresh_tomatoes.open_movies_page(movies)
